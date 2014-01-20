@@ -1,0 +1,3 @@
+#!/bin/bash
+
+PYTHONPATH="./site-packages" python ./cursesui.py -u .pymarietje-noord -H noordslet.science.ru.nl

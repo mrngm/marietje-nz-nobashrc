@@ -1,0 +1,2 @@
+#!/bin/bash
+PYTHONPATH="./site-packages" python upload.py -H zuidslet.science.ru.nl "$@"
